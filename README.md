@@ -1,4 +1,7 @@
-# test coverage for  [through2-map (v3.0.0)](https://github.com/brycebaril/through2-map#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-through2-map.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-through2-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-through2-map.svg)](https://travis-ci.org/npmtest/node-npmtest-through2-map)
+# npmtest-through2-map
+
+#### basic test coverage for  [through2-map (v3.0.0)](https://github.com/brycebaril/through2-map#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-through2-map.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-through2-map) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-through2-map.svg)](https://travis-ci.org/npmtest/node-npmtest-through2-map)
+
 #### A through2 to create an Array.prototype.map analog for streams.
 
 [![NPM](https://nodei.co/npm/through2-map.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/through2-map)
